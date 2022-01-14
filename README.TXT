@@ -1,0 +1,1 @@
+Primary files for a Minecraft plugin course I am following to strengthen my skills in Java.

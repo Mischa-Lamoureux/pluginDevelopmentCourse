@@ -1,0 +1,12 @@
+name: JavaPluginCourse
+version: ${project.version}
+main: com.mischa.javaplugincourse.Javaplugincourse
+api-version: 1.16
+author: Mischa
+description: A plugin following the online Java course
+commands:
+  hello:
+    aliases: [hi]
+    description: Good test command!
+  config:
+    description: Gets information from the config.yml file
